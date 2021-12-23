@@ -22,7 +22,12 @@ const Intro = () => {
         </Link>
       </div>
       <div className={styles.card}>
-        <Image src="/img/prog.png" layout="fill" objectFit="cover"></Image>
+        <Image
+          src="/img/prog.png"
+          layout="fill"
+          objectFit="cover"
+          alt=""
+        ></Image>
       </div>
     </div>
   );
