@@ -18,7 +18,7 @@ const Intro = () => {
           industry. Lorem Ipsum has been the industry's standard dummy text.
         </p>
         <Link href="/contact" passHref>
-          <button className={styles.button}>Learn More</button>
+          <button className={styles.button}>Contact Us</button>
         </Link>
       </div>
       <div className={styles.card}>
